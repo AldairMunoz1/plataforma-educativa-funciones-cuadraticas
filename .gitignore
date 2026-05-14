@@ -1,0 +1,32 @@
+# Base de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Dependencias
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
