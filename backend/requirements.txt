@@ -1,0 +1,20 @@
+# Framework Web
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Base de Datos
+SQLAlchemy==2.0.23
+alembic==1.13.1
+
+# Autenticación y Seguridad
+bcrypt==4.1.2
+PyJWT==2.8.0
+
+# Cliente HTTP
+requests==2.31.0
+
+# Servidor WSGI
+gunicorn==21.2.0
+
+# Utilidades
+python-dotenv==1.0.0
